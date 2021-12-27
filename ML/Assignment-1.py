@@ -10,7 +10,7 @@ import sys
 
 
 def get_driver():
-    path = 'E:\Phu\Works\TNI\ML\chromedriver'
+    path = 'chromedriver'
     driver = webdriver.Chrome(executable_path=path)
     driver.get(f'https://www.google.com/search?q={keyword}&tbm=isch')
 
