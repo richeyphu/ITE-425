@@ -1,0 +1,13 @@
+pip install jupyter                   Core component to write python notebook
+pip install ipykernel                 Provide Python kernel for Jupyter
+
+pip install beautifulsoup4            Read text and format text
+pip install requests                  Internet core component
+pip install lxml                      Read, Write, Manipulate xml
+
+pip install selenium                  Browser manipulation
+pip install fs                        File System Manipulation
+
+pip install pandas                    Read files
+pip install openpyxl                  Read, Write, Manipulate excel
+pip install scikit-learn              AI - Machine Learning - Data Mining | Learning Science kit
