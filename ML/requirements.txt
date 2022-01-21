@@ -11,3 +11,7 @@ pip install fs                        File System Manipulation
 pip install pandas                    Read files
 pip install openpyxl                  Read, Write, Manipulate excel
 pip install scikit-learn              AI - Machine Learning - Data Mining | Learning Science kit
+
+pip install opencv-python
+pip install numpy
+pip install matplotlib
